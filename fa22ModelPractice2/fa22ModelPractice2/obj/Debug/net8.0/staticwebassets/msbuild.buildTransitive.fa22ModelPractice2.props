@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/fa22ModelPractice2.props" />
+</Project>
